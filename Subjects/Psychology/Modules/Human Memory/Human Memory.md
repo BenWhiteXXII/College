@@ -2,7 +2,7 @@
 
 ### What is memory?
 Memory allows us to draw on our past experiences in order to react to the present and create our future, making it an undeniably important part of our mental facaulties.
-Therefore psychologists find it an important feature to explain and deconstruct, creating [different models](different models) and theories of both the structure of memories themselves and why we even forget things in the first place.
+Therefore psychologists find it an important feature to explain and deconstruct, creating [different models](./different models) and theories of both the structure of memories themselves and why we even forget things in the first place.
 
 ### Models of Memory
 The first person to distinguish between [*short-term memory* (STM)](short-term memory) and [*long-term memory* (LTM)](long-term memory) was [William James](William James) in his book *The Principles of Psychology* (1890), reffering to them as Primary and Secondary memory respectively.
