@@ -1,11 +1,12 @@
 # To-Do list
-* [ ] (25/9/23) Write up Psych memory chap. 17 notes
-* [ ] (2/10/23) Read Manifesto
-* [ ] (2/10/23) Complete task one of Sociology assignment
-* [ ] (3/10/23) Change King's to Warwick in study skills assignment
+* [ ] (2/10/23) Read Althusser
+* [ ] (3/10/23) Change Durham to Warwick in study skills assignment
 * [ ] (3/10/23) Complete Task 2 of Study Skills assignment
 * [ ] (6/10/23) Read Fanny and Annie + make notes
-* [ ] Look over assessment guides and make plan
+* [ ] (6/10/23) Make Eng. Lit. essay plan
+* [ ] (9/10/23) Complete task one of Sociology assignment
+* [ ] (9/10/23) Write up Psych memory chap. 17 notes
+* [ ] (9/10/23) Setup LaTeX bib file
 * [ ] Get subject folders for physical notes
 * [ ] Read The Color Purple
 * [ ] Read Kindertransport (play)
