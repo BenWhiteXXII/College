@@ -1,9 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is '/home/ben-new/Documents/College/GlosCol/LaTeX/templates/Ben White/harvard_latex.blg'
-[78] biber:340> INFO - === Mon Oct  2, 2023, 11:28:01
-[94] Biber.pm:419> INFO - Reading '/home/ben-new/Documents/College/GlosCol/LaTeX/templates/Ben White/harvard_latex.bcf'
-[178] Biber.pm:979> INFO - Found 3 citekeys in bib section 0
-[197] Biber.pm:4419> INFO - Processing section 0
-[210] Biber.pm:4610> INFO - Looking for bibtex file 'sample.bib' for section 0
-[343] Utils.pm:410> ERROR - Data file '/usr/local/texlive/2023/texmf-dist/bibtex/bib/gloss/sample.bib' cannot be read in encoding 'utf8': Can't decode ill-formed UTF-8 octet sequence <D2> at /tmp/par-62656e2d6e6577/cache-b6edf8f8dbb3ab2921dac538fd4f00fae99f4fe6/inc/lib/File/Slurper.pm line 59.
-[343] Biber.pm:136> INFO - ERRORS: 1
